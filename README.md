@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabeo10
 - 👀 I’m interested in steadily learning new things.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C#/Python.
 - 💞️ I’m looking to collaborate on learning more about coding.
 - 📫 How to reach me fabe.ornelas98@gmail.com
 
